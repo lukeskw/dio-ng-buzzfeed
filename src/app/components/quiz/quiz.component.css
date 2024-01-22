@@ -26,7 +26,6 @@
   width: 100%;
   height: 12.5rem;
   font-size: 1.25rem;
-  font-family: 'Segoe UI';
   margin-bottom: 1.25rem;
 }
 
@@ -47,7 +46,6 @@
   display: inline-block;
   cursor: pointer;
   color: #ffffff;
-  font-family: Arial;
   font-size: 1rem;
   padding: 1rem 2rem;
   text-decoration: none;
